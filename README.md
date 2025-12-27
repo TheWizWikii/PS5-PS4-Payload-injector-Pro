@@ -2,7 +2,7 @@
 
 ### 🚀 ¿Qué es?
 
-Utilidad desarrollada en **C\#** para automatizar la inyeccion de payloads en la PS4 o PS4 la cual obtiene los payloads desde una base de datos actualizable. Tambien se puede usar manualmente.
+App desarrollada en C#, diseñada para buscar y enviar payloads **.bin** y **.elf** a **PS4** o **PS5** de forma automatizada. También incluye la opción de enviarlos manualmente.
 
 ![Alt-payload](https://i.imgur.com/WlqWlzo.png)
 
