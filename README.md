@@ -4,7 +4,7 @@
 
 Utilidad desarrollada en **C\#** para automatizar la inyeccion de payloads en la PS4 o PS4 la cual obtiene los payloads desde una base de datos actualizable. Tambien se puede usar manualmente.
 
-![Alt-payload](https://i.imgur.com/hh8xnrO.png)
+![Alt-payload](https://i.imgur.com/WlqWlzo.png)
 
 -----
 
