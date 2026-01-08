@@ -20,6 +20,7 @@ Funciona en cualquier consolas **PlayStation 4/5** con Jailbreak.
 - webserv v0.28.3 (PS5)
 - etaHEN v2.4b (PS5)
 - etaHEN v2.5b (PS5)
+- ShadowMount v1.2B (PS5)
 - PS5Debug v1.0b5 (PS5)
 - airpsx v0.19 (PS5)
 - GoldHEN.v2.4b18.7 (PS4)
