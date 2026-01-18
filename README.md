@@ -24,6 +24,8 @@ Funciona en cualquier consolas **PlayStation 4/5** con Jailbreak.
 - notify (PS5) [(Opcional) para ver las notificaciones de ShadowMount]
 - ShadowMount v1.3B (PS5) [busca e instala automáticamente dumps de PS5]
 - PS5Debug v1.0b5 (PS5) [herramienta de depuración para desarrolladores y cheats]
+- BackPork v0.1 (PS5) [monitoriza el inicio de juegos en la PS5 y carga para cargar patches]
+- Full Y2JB Block (PS5) [Bloquea updates de la app de Youtube sin DNS]
 - airpsx v0.19 (PS5) [gestión de la consola mediante entorno de escritorio web similar a AirDroid]
 - GoldHEN.v2.4b18.7 (PS4) [homebrew enabler]
 
